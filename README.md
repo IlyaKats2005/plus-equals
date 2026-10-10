@@ -1,2 +1,3 @@
-# plus-equals
-+= — EHL hackathon team project
+# +=
+
+EHL hackathon team project.

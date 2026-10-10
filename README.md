@@ -2,6 +2,12 @@
 
 EHL hackathon team project.
 
+## Team collaboration
+
+- Agree on task ownership and share progress or blockers early.
+- Keep changes focused, use clear commit messages, and review each other's work.
+- Pull the latest `main` before starting work and enable Entire locally so session context stays with the code.
+
 ## Entire setup
 
 Install Entire using https://entire.io/install.sh, then run the following from this repository on main:

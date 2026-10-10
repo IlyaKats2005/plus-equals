@@ -1,0 +1,1 @@
+Add a short team collaboration section to README.md, commit it, and push to main. Verify that Entire captured this session and pushed its checkpoint.
